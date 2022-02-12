@@ -1,0 +1,14 @@
+{
+  "name": "blob",
+  "start_url": "Blob_Wearables.glb",
+  "components": [
+    {
+      "key": "pet",
+      "value": {
+        "idleAnimation": "Idle",
+        "walkAnimation": "Hop",
+        "runAnimation": ""
+      }
+    }
+  ]
+}
